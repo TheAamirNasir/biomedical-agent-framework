@@ -1,0 +1,17 @@
+[
+  {
+    "question_type": "Direct Fact",
+    "question": "What is the primary clinical endpoint measured in the Phase 3 Lecanemab trial?",
+    "ground_truth": "The primary clinical endpoint is the change from baseline in the Clinical Dementia Rating-Sum of Boxes (CDR-SB) score at 18 months."
+  },
+  {
+    "question_type": "Multi-Hop Reasoning",
+    "question": "How does Lecanemab's mechanism of action relate to the observed reduction in cognitive decline?",
+    "ground_truth": "Lecanemab is an IgG1 monoclonal antibody that binds to soluble amyloid-beta protofibrils, which prevents amyloid plaque accumulation, thereby slowing clinical decline on the CDR-SB scale."
+  },
+  {
+    "question_type": "Adversarial / Trick",
+    "question": "What were the effects of Lecanemab on COVID-19 transmission rates during the trial?",
+    "ground_truth": "The provided text does not mention COVID-19 transmission rates."
+  }
+]

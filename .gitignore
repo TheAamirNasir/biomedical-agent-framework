@@ -1,0 +1,10 @@
+﻿.env
+__pycache__/
+chroma_local_storage/
+lib/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+graph_output.html
+desktop.ini
